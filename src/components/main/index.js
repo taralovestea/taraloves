@@ -13,12 +13,15 @@ export default function main() {
                 <div class="container has-text-centered">
                     <div class="column is-6 is-offset-3">
                         <h1 class="title">
-                            Coming Soon
+                            Welcome.
                         </h1>
                         <h2 class="subtitle">
-                            Welcome to your new yoga program. 
-                            Depending on your goals, we formulate the perfect yoga class for you.
-                            Enter your email to recieve updates!
+                            Tara Loves is a cultivation
+                            of all my passions.
+                            It began as my instagram handle "taralovestea"
+                            that I made in highschool- but now as a 26 year old
+                            I have many projects, insights, and knowledge to add to the list.
+                            I'm glad you are here. 
                         </h2>
                         <div class="box">
                         <form
