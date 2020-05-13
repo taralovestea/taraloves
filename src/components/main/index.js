@@ -4,7 +4,7 @@ import Navbar from "./navbar"
 
 export default function main() {
     return <div>
-        <Navbar /> 
+        {/* <Navbar />  */}
     
     <section class="hero is-info is-fullheight">
         <div class="hero-head"></div>
