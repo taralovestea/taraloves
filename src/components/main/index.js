@@ -29,7 +29,7 @@ export default function main() {
             >
                             <div class="field is-grouped">
                                 <p class="control is-expanded">
-                                    <input class="input" type="text" placeholder="Enter your email" /> 
+                                    <input class="input" type="text" placeholder="Join my e-mail list" /> 
                                 <div>
                                 <p class="control">
                                     <a class="button is-info">
