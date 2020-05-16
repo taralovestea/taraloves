@@ -17,11 +17,10 @@ export default function main() {
                         </h1>
                         <h2 class="subtitle">
                             Tara Loves is a cultivation
-                            of all my passions.
-                            It began as my instagram handle "taralovestea"
-                            that I made in highschool- but now as a 26 year old
-                            I have many projects, insights, and knowledge to add to the list.
-                            I'm glad you are here. 
+                            of all my passions. I highly enjoy exploration, 
+                            which has led me to follow many paths. 
+                            Here you will find how I navigate through many different
+                            experiences all in one lifetime.
                         </h2>
                         <div class="box">
                         <form
