@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/taraloves/static/css/main.37ebdb32.chunk.css",
-    "main.js": "/taraloves/static/js/main.cf861b21.chunk.js",
-    "main.js.map": "/taraloves/static/js/main.cf861b21.chunk.js.map",
+    "main.js": "/taraloves/static/js/main.05e49b24.chunk.js",
+    "main.js.map": "/taraloves/static/js/main.05e49b24.chunk.js.map",
     "runtime-main.js": "/taraloves/static/js/runtime-main.2570d48e.js",
     "runtime-main.js.map": "/taraloves/static/js/runtime-main.2570d48e.js.map",
     "static/js/2.30c2bf29.chunk.js": "/taraloves/static/js/2.30c2bf29.chunk.js",
     "static/js/2.30c2bf29.chunk.js.map": "/taraloves/static/js/2.30c2bf29.chunk.js.map",
     "index.html": "/taraloves/index.html",
-    "precache-manifest.4edc688d32305825bb1a9865663cae30.js": "/taraloves/precache-manifest.4edc688d32305825bb1a9865663cae30.js",
+    "precache-manifest.cc59280a44f67f63e050231ef459b696.js": "/taraloves/precache-manifest.cc59280a44f67f63e050231ef459b696.js",
     "service-worker.js": "/taraloves/service-worker.js",
     "static/css/main.37ebdb32.chunk.css.map": "/taraloves/static/css/main.37ebdb32.chunk.css.map",
     "static/js/2.30c2bf29.chunk.js.LICENSE.txt": "/taraloves/static/js/2.30c2bf29.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2570d48e.js",
     "static/js/2.30c2bf29.chunk.js",
     "static/css/main.37ebdb32.chunk.css",
-    "static/js/main.cf861b21.chunk.js"
+    "static/js/main.05e49b24.chunk.js"
   ]
 }

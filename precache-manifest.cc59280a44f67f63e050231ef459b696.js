@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59e60c4fb4363ddcf444b7ef9a05dbe8",
+    "revision": "c3f044922bf788001d05154e850978ec",
     "url": "/taraloves/index.html"
   },
   {
-    "revision": "6934f45f2cb589ce47cb",
+    "revision": "4c86cfe203fd10765fef",
     "url": "/taraloves/static/css/main.37ebdb32.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/taraloves/static/js/2.30c2bf29.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6934f45f2cb589ce47cb",
-    "url": "/taraloves/static/js/main.cf861b21.chunk.js"
+    "revision": "4c86cfe203fd10765fef",
+    "url": "/taraloves/static/js/main.05e49b24.chunk.js"
   },
   {
     "revision": "c5d7fb7e193fb1fbb63b",
